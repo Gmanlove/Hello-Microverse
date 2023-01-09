@@ -6,9 +6,6 @@ This is an Html and Css Hello Microverse Project
 ## Built With
 - Major languages HTML, CSS
 
-[Live Demo Link]()
-
-
 
 # 📗 Table of Contents
 
@@ -32,8 +29,6 @@ This is an Html and Css Hello Microverse Project
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
-
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
 I did this project by creating repository where i coded some text 'Hello Microverse'.
@@ -43,11 +38,6 @@ I did this project by creating repository where i coded some text 'Hello Microve
 ## 🛠 Built With <a name="built-with"></a>
 - HTML 
 - CSS
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -67,9 +57,6 @@ Live Server
 
 Clone this repository to your desired folder: 
 git@github.com:Gmanlove/Hello-Microverse.git
-
-
-
 
 
 ## 👥 Authors <a name="authors"></a>
